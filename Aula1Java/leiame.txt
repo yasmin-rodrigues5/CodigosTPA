@@ -1,0 +1,7 @@
+exercicios que tem nessa pasta:
+calcleMedia
+Idade
+MesesAnos
+OlaMundo
+Triangulo
+ValoresInvertidos
